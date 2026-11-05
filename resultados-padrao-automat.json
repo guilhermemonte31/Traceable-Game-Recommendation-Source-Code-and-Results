@@ -1,0 +1,183 @@
+[
+    {
+        "pergunta": "quero um jogo de combate ao terrorismo que eu estou em uma equipe tatica que precisa defender um local",
+        "top10": [
+            {
+                "jogo": "Grand Theft Auto V",
+                "pontuacao": 4
+            },
+            {
+                "jogo": "Tom Clancy's Rainbow Six Siege",
+                "pontuacao": 4
+            },
+            {
+                "jogo": "PUBG Battlegrounds",
+                "pontuacao": 4
+            },
+            {
+                "jogo": "Payday 2",
+                "pontuacao": 3
+            },
+            {
+                "jogo": "Counter Strike 2",
+                "pontuacao": 3
+            },
+            {
+                "jogo": "The Elder Scrolls V: Skyrim",
+                "pontuacao": 3
+            },
+            {
+                "jogo": "Deadlock",
+                "pontuacao": 3
+            },
+            {
+                "jogo": "Delta Force",
+                "pontuacao": 3
+            },
+            {
+                "jogo": "Dead by Daylight",
+                "pontuacao": 3
+            },
+            {
+                "jogo": "War Thunder",
+                "pontuacao": 3
+            }
+        ]
+    },
+    {
+        "pergunta": "quero um jogo sci-fi que eu possa personalizar meu personagem e explorar mundo aberto fazendo missões e upgrades",
+        "top10": [
+            {
+                "jogo": "Cyberpunk 2077",
+                "pontuacao": 2
+            },
+            {
+                "jogo": "Warframe",
+                "pontuacao": 2
+            },
+            {
+                "jogo": "Grand Theft Auto V",
+                "pontuacao": 2
+            },
+            {
+                "jogo": "Windrose",
+                "pontuacao": 2
+            },
+            {
+                "jogo": "Project Zomboid",
+                "pontuacao": 2
+            },
+            {
+                "jogo": "Apex Legends",
+                "pontuacao": 2
+            },
+            {
+                "jogo": "Terraria",
+                "pontuacao": 2
+            },
+            {
+                "jogo": "PUBG Battlegrounds",
+                "pontuacao": 1
+            },
+            {
+                "jogo": "Forza Horizon 6",
+                "pontuacao": 1
+            },
+            {
+                "jogo": "Stardew Valley",
+                "pontuacao": 1
+            }
+        ]
+    },
+    {
+        "pergunta": "quero um jogo de combate mágico ambientado em fantasia medieval",
+        "top10": [
+            {
+                "jogo": "The Elder Scrolls V: Skyrim",
+                "pontuacao": 4
+            },
+            {
+                "jogo": "Crimson Desert",
+                "pontuacao": 4
+            },
+            {
+                "jogo": "Diablo IV",
+                "pontuacao": 3
+            },
+            {
+                "jogo": "Elden Ring",
+                "pontuacao": 3
+            },
+            {
+                "jogo": "Baldur's Gate 3",
+                "pontuacao": 2
+            },
+            {
+                "jogo": "Delta Force",
+                "pontuacao": 2
+            },
+            {
+                "jogo": "Warframe",
+                "pontuacao": 2
+            },
+            {
+                "jogo": "Dead by Daylight",
+                "pontuacao": 2
+            },
+            {
+                "jogo": "Terraria",
+                "pontuacao": 2
+            },
+            {
+                "jogo": "Battlefield 6",
+                "pontuacao": 2
+            }
+        ]
+    },
+    {
+        "comentario": "era pra ser diablo iv",
+        "pergunta": "quero um jogo de ação que eu tenha que enfrentar chefões com combates rápidos",
+        "top10": [
+            {
+                "jogo": "Geometry Dash",
+                "pontuacao": 3
+            },
+            {
+                "jogo": "Apex Legends",
+                "pontuacao": 3
+            },
+            {
+                "jogo": "Overwatch",
+                "pontuacao": 2
+            },
+            {
+                "jogo": "Warframe",
+                "pontuacao": 2
+            },
+            {
+                "jogo": "Dota 2",
+                "pontuacao": 2
+            },
+            {
+                "jogo": "Deadlock",
+                "pontuacao": 2
+            },
+            {
+                "jogo": "Battlefield 6",
+                "pontuacao": 2
+            },
+            {
+                "jogo": "Counter Strike 2",
+                "pontuacao": 2
+            },
+            {
+                "jogo": "Marvel Rivals",
+                "pontuacao": 2
+            },
+            {
+                "jogo": "Tom Clancy's Rainbow Six Siege",
+                "pontuacao": 2
+            }
+        ]
+    }
+]

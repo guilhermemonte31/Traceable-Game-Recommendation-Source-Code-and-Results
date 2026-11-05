@@ -1,0 +1,1869 @@
+GAME: Red Dead Redemption 2
+
+NAME: Red Dead Redemption 2
+
+PLOT:
+The story of Arthur Morgan, an outlaw grappling with the decline of his gang at the end of the Wild West era
+
+PROGRESSION:
+Main quests; side quests
+
+GENRE:
+Action, Adventure
+
+SUBGENRE:
+RPG, Open world, Shots
+
+MECHANICS:
+Combat with weapons, Hunting and gathering, Interaction with NPCs, Honor system, Horseback riding, Crafting, Exploration
+
+CORELOOP:
+Exploration, Mission, Fight, Interactions, Rewards, Evolution
+
+THEME:
+Redemption, Morality, Loyalty, Survival, The Wild West
+
+SETTING:
+Old west
+
+PERSPECTIVE:
+Third person
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: Elden Ring
+
+NAME: Elden Ring
+
+PLOT:
+A tainted one seeks to restore the Pristine Ring and become the Pristine Lord of the Middle Lands
+
+PROGRESSION:
+Progression based on attributes, equipment, and skills; exploration of new areas
+
+GENRE:
+RPG, Action
+
+SUBGENRE:
+Souslike, Open world, Fantasy
+
+MECHANICS:
+Melee combat, Magical combat, Parrying, Stamina management, Non-linear exploration, Character builds, Summoning
+
+CORELOOP:
+Exploration, Fight, Collect, Evolution
+
+THEME:
+Decline, Power, Ambition, Destiny, Cycle of ruin and renewal
+
+SETTING:
+Dark fantasy world
+
+PERSPECTIVE:
+Third person
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: Stardew Valley
+
+NAME: Stardew Valley
+
+PLOT:
+A character inherits his grandfather's farm and seeks a new life in the countryside by rebuilding the property and forging bonds within the community
+
+PROGRESSION:
+Progression based on improvements to the farm; character relationships and skills
+
+GENRE:
+Simulation
+
+SUBGENRE:
+Farming simulator, RPG, Sandbox, Life sim
+
+MECHANICS:
+Agriculture, Fishing, Mining, Crafting, Resource management, Farm customization, Interaction with NPCs, Light combat
+
+CORELOOP:
+Manage resources, Plant and harvest, Interact with NPCs, Explore, Earn money, Expand your farm
+
+THEME:
+Community, Escapism, Nature, Personal growth
+
+SETTING:
+Rural valley
+
+PERSPECTIVE:
+2D top-down
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: Grand Theft Auto V
+
+NAME: Grand Theft Auto V
+
+PLOT:
+The intertwined stories of three criminals (Michael, Franklin, and Trevor) navigating crime and corruption in Los Santos while pursuing wealth and survival
+
+PROGRESSION:
+Story progression with main missions, side activities, and heists
+
+GENRE:
+Action, Adventure
+
+SUBGENRE:
+Open world, Shooter, Sandbox, Crime
+
+MECHANICS:
+Shooting mechanics, Driving vehicles, Character switching, Heist planning and execution, Interaction with NPCs, Police system, Economy and money management, Customization, Exploration
+
+CORELOOP:
+Exploration, Missions, Heists, Combat, Driving, Interactions, Rewards, Progression
+
+THEME:
+Crime, Ambition, Corruption, Capitalism, Violence, Satire of modern society
+
+SETTING:
+Modern urban
+
+PERSPECTIVE:
+Third person, First person
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: EA Sports FC 26
+
+NAME: EA Sports FC 26
+
+PLOT:
+No traditional narrative; focuses on football competitions, player careers, and team management
+
+PROGRESSION:
+Progression through career mode (player/manager), ultimate team building, and competitive rankings
+
+GENRE:
+Sports
+
+SUBGENRE:
+Soccer, Simulation, Competitive
+
+MECHANICS:
+Player control, Passing, Shooting, Dribbling, Defending, Tactical positioning, Set pieces, Team management, Online matchmaking, Career mode systems
+
+CORELOOP:
+Match play, Team management, Skill execution, Scoring goals, Competition, Rewards, Progression
+
+THEME:
+Sportsmanship, Competition, Teamwork, Achievement, Strategy
+
+SETTING:
+Real-world football stadiums and leagues
+
+PERSPECTIVE:
+Third person, Broadcast view
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: Counter Strike 2
+
+NAME: Counter Strike 2
+
+PLOT:
+Two teams (terrorists and counter-terrorists) compete in tactical combat scenarios involving bomb defusal or hostage rescue missions
+
+PROGRESSION:
+Progression through competitive ranking, skill improvement, and cosmetic rewards
+
+GENRE:
+Action, Shooter
+
+SUBGENRE:
+Tactical FPS, Competitive, Multiplayer
+
+MECHANICS:
+Precise aiming, Recoil control, Economy management, Grenade usage, Map control, Communication, Bomb planting/defusal, Hostage rescue, Shooting, Shooting mechanics
+
+CORELOOP:
+Team-based combat, Eliminate enemies, Complete objectives, Strategy, Progression
+
+THEME:
+Teamwork, Strategy, Competition, Precision, Tension
+
+SETTING:
+Modern urban and industrial maps
+
+PERSPECTIVE:
+First person
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: Apex Legends
+
+NAME: Apex Legends
+
+PLOT:
+Legends compete in the Apex Games, a bloodsport competition where squads fight for survival and glory in a futuristic universe
+
+PROGRESSION:
+Progression through ranked matches, unlockable legends, cosmetics, and skill mastery
+
+GENRE:
+Action, Shooter
+
+SUBGENRE:
+Battle royale, Hero shooter, FPS
+
+MECHANICS:
+Shooting mechanics, Hero abilities, Movement system, Sliding, Climbing, Squad communication, Revival system, Inventory management
+
+CORELOOP:
+Exploration, Loot, Fight, Survival, Team coordination, Progression
+
+THEME:
+Survival, Competition, Teamwork, Fame, Ambition
+
+SETTING:
+Futuristic sci-fi arenas
+
+PERSPECTIVE:
+First person
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: Bongo Cat
+
+NAME: Bongo Cat
+
+PLOT:
+A simple meme-inspired cat repeatedly plays bongos while the player interacts to gain rewards and unlock visual customizations
+
+PROGRESSION:
+Progression through unlocking cosmetics, increasing score, and passive idle rewards
+
+GENRE:
+Casual, Simulation
+
+SUBGENRE:
+Clicker, Idle, Meme game
+
+MECHANICS:
+Repetitive clicking, Cosmetic collection, Passive progression, Score accumulation, Simple interaction loops
+
+CORELOOP:
+Clicking, Collecting, Customization, Progression, Rewards
+
+THEME:
+Humor, Relaxation, Simplicity, Collection
+
+SETTING:
+Minimalist cartoon environment
+
+PERSPECTIVE:
+2D side view
+
+GAMEMODE:
+Singleplayer
+
+---
+
+GAME: Forza Horizon 6
+
+NAME: Forza Horizon 6
+
+PLOT:
+The player participates in the Horizon Festival, competing in races and challenges across a large open-world environment while building their reputation
+
+PROGRESSION:
+Progression through races, festival events, car unlocks, and reputation levels
+
+GENRE:
+Racing, Simulation
+
+SUBGENRE:
+Open world, Arcade racing, Driving
+
+MECHANICS:
+Driving mechanics, Drifting, Vehicle customization, Open-world exploration, Seasonal events, Multiplayer races, Car collection
+
+CORELOOP:
+Exploration, Racing, Collecting cars, Progression, Competition
+
+THEME:
+Freedom, Competition, Speed, Car culture, Exploration
+
+SETTING:
+Large open-world festival setting
+
+PERSPECTIVE:
+Third person, First person
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: Dota 2
+
+NAME: Dota 2
+
+PLOT:
+Two teams of five heroes battle to destroy the enemy Ancient while defending their own base through strategic combat and coordination
+
+PROGRESSION:
+Progression through matchmaking ranking, hero mastery, and cosmetic rewards
+
+GENRE:
+Strategy, Action
+
+SUBGENRE:
+Moba, Competitive, Multiplayer
+
+MECHANICS:
+Hero abilities, Item building, Last hitting, Map awareness, Team fights, Warding, Strategic positioning
+
+CORELOOP:
+Lane control, Farming, Fighting, Team coordination, Objectives, Progression
+
+THEME:
+Strategy, Teamwork, Competition, Mastery, Rivalry
+
+SETTING:
+Fantasy battlefield arenas
+
+PERSPECTIVE:
+Top-down isometric
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: PUBG Battlegrounds
+
+NAME: PUBG Battlegrounds
+
+PLOT:
+Players are dropped onto an island where they must scavenge equipment and survive until only one player or team remains
+
+PROGRESSION:
+Progression through ranking systems, battle passes, cosmetics, and player skill
+
+GENRE:
+Action, Shooter
+
+SUBGENRE:
+Battle royale, Survival, Tactical FPS
+
+MECHANICS:
+Shooting mechanics, Looting, Vehicle driving, Zone management, Survival tactics, Squad communication
+
+CORELOOP:
+Exploration, Loot, Survival, Combat, Positioning, Progression
+
+THEME:
+Survival, Tension, Competition, Adaptation, Realism
+
+SETTING:
+Military islands and abandoned urban zones
+
+PERSPECTIVE:
+First person, Third person
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: Dead by Daylight
+
+NAME: Dead by Daylight
+
+PLOT:
+Four survivors attempt to escape from a deadly killer controlled by another player in a series of horror-themed trials
+
+PROGRESSION:
+Progression through character perks, bloodweb upgrades, cosmetics, and ranked matchmaking
+
+GENRE:
+Horror, Action
+
+SUBGENRE:
+Asymmetrical multiplayer, Survival horror
+
+MECHANICS:
+Stealth, Skill checks, Generator repair, Tracking, Unique killer powers, Teamwork, Escape planning
+
+CORELOOP:
+Survival, Chase, Repair objectives, Escape, Hunting, Progression
+
+THEME:
+Fear, Survival, Tension, Sacrifice, Escape
+
+SETTING:
+Dark horror realms inspired by various franchises
+
+PERSPECTIVE:
+Third person, First person (killer perspective)
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: Battlefield 6
+
+NAME: Battlefield 6
+
+PLOT:
+Large-scale military conflicts unfold across modern warzones where players fight in squads using infantry and vehicles to secure victory
+
+PROGRESSION:
+Progression through rank levels, weapon unlocks, class upgrades, and seasonal content
+
+GENRE:
+Action, Shooter
+
+SUBGENRE:
+Military FPS, Tactical shooter, Multiplayer
+
+MECHANICS:
+Shooting mechanics, Class system, Vehicle control, Squad teamwork, Destruction system, Objective capture, Large-scale battles
+
+CORELOOP:
+Team combat, Conquest, Objectives, Vehicle warfare, Progression
+
+THEME:
+War, Teamwork, Strategy, Destruction, Competition
+
+SETTING:
+Modern military battlefields
+
+PERSPECTIVE:
+First person
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: Terraria
+
+NAME: Terraria
+
+PLOT:
+The player explores a procedurally generated world, gathering resources, fighting monsters, and defeating powerful bosses while shaping their own adventure
+
+PROGRESSION:
+Progression through stronger equipment, defeated bosses, unlocked biomes, and expanded crafting options
+
+GENRE:
+Adventure, Survival
+
+SUBGENRE:
+Sandbox, Crafting, 2D exploration
+
+MECHANICS:
+Resource gathering, Crafting, Base building, Boss fights, Equipment upgrades, NPC interaction, World exploration
+
+CORELOOP:
+Exploration, Mining, Building, Combat, Crafting, Progression
+
+THEME:
+Creativity, Survival, Discovery, Progression, Adventure
+
+SETTING:
+Fantasy 2D world
+
+PERSPECTIVE:
+2D side view
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: Warframe
+
+NAME: Warframe
+
+PLOT:
+Ancient warriors called Tenno awaken to fight across the solar system against oppressive factions using advanced biomechanical suits called Warframes
+
+PROGRESSION:
+Progression through unlocking warframes, weapons, mods, story quests, and mastery rank
+
+GENRE:
+Action, Shooter
+
+SUBGENRE:
+Looter shooter, Sci-fi, Coop
+
+MECHANICS:
+Fast-paced shooting, Melee combat, Parkour movement, Warframe abilities, Mod system, Crafting, Squad cooperation
+
+CORELOOP:
+Exploration, Missions, Combat, Loot, Progression, Customization
+
+THEME:
+Power, War, Freedom, Evolution, Cooperation
+
+SETTING:
+Futuristic sci-fi solar system
+
+PERSPECTIVE:
+Third person
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: Marvel Rivals
+
+NAME: Marvel Rivals
+
+PLOT:
+Heroes and villains from the Marvel universe battle across multiversal conflicts in team-based competitive arenas
+
+PROGRESSION:
+Progression through hero mastery, ranked matches, unlockables, and cosmetic rewards
+
+GENRE:
+Action, Shooter
+
+SUBGENRE:
+Hero shooter, Team-based, Multiplayer
+
+MECHANICS:
+Hero abilities, Team synergy, Shooting mechanics, Environmental interaction, Ultimate abilities, Map objectives
+
+CORELOOP:
+Team combat, Objectives, Strategy, Progression, Cooperation
+
+THEME:
+Heroism, Rivalry, Teamwork, Power, Multiverse
+
+SETTING:
+Futuristic comic-inspired battle arenas
+
+PERSPECTIVE:
+Third person
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: Windrose
+
+NAME: Windrose
+
+PLOT:
+The player explores a fantasy world shaped by ancient powers, uncovering mysteries while facing enemies and evolving their abilities
+
+PROGRESSION:
+Progression through leveling, equipment improvement, unlocked regions, and story advancement
+
+GENRE:
+RPG, Action
+
+SUBGENRE:
+Open world, Fantasy, Exploration
+
+MECHANICS:
+Melee combat, Skill trees, Exploration systems, Quest completion, Equipment upgrades, Character progression
+
+CORELOOP:
+Exploration, Combat, Quests, Progression, Resource gathering
+
+THEME:
+Adventure, Destiny, Discovery, Power, Mystery
+
+SETTING:
+Fantasy open world
+
+PERSPECTIVE:
+Third person
+
+GAMEMODE:
+Singleplayer
+
+---
+
+GAME: Slay the Spire 2
+
+NAME: Slay the Spire 2
+
+PLOT:
+Heroes climb the Spire once again, battling strange creatures and building powerful card combinations in a constantly changing tower
+
+PROGRESSION:
+Progression through stronger decks, unlocked characters, relic mastery, and successful runs
+
+GENRE:
+Strategy, Card game
+
+SUBGENRE:
+Roguelike, Deckbuilder, Turn-based
+
+MECHANICS:
+Card synergies, Turn-based combat, Relic collection, Path selection, Resource management, Procedural runs
+
+CORELOOP:
+Combat, Deck building, Decision making, Progression, Exploration
+
+THEME:
+Strategy, Risk, Adaptation, Mastery, Survival
+
+SETTING:
+Fantasy tower and abstract realms
+
+PERSPECTIVE:
+2D side view
+
+GAMEMODE:
+Singleplayer
+
+---
+
+GAME: Rust
+
+NAME: Rust
+
+PLOT:
+Players awaken in a hostile open world where they must survive against nature, wildlife, and other players while building and defending their own bases
+
+PROGRESSION:
+Progression through stronger equipment, fortified bases, alliances, and territorial dominance
+
+GENRE:
+Survival, Action
+
+SUBGENRE:
+Open world, Crafting, Multiplayer
+
+MECHANICS:
+Crafting, Base building, Hunger and thirst management, PvP combat, Raiding, Alliances, Exploration
+
+CORELOOP:
+Resource gathering, Survival, Building, Combat, Progression
+
+THEME:
+Survival, Betrayal, Power, Competition, Adaptation
+
+SETTING:
+Post-apocalyptic island
+
+PERSPECTIVE:
+First person
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: Tom Clancy's Rainbow Six Siege
+
+NAME: Tom Clancy's Rainbow Six Siege
+
+PLOT:
+Specialized operators from global counter-terrorism units compete in high-risk tactical missions involving hostage rescue, bomb defusal, and area control
+
+PROGRESSION:
+Progression through ranked matches, operator unlocks, skill mastery, and cosmetic rewards
+
+GENRE:
+Action, Shooter
+
+SUBGENRE:
+Tactical FPS, Competitive, Multiplayer
+
+MECHANICS:
+Precise shooting, Operator abilities, Destructible environments, Gadget usage, Tactical planning, Team communication
+
+CORELOOP:
+Team combat, Strategy, Objective defense and attack, Progression
+
+THEME:
+Strategy, Teamwork, Precision, Tension, Competition
+
+SETTING:
+Modern tactical urban environments
+
+PERSPECTIVE:
+First person
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: Deadlock
+
+NAME: Deadlock
+
+PLOT:
+Teams of heroes battle across strategic maps combining moba structure with shooter combat to dominate objectives and defeat opponents
+
+PROGRESSION:
+Progression through hero mastery, ranked matches, unlockables, and player skill development
+
+GENRE:
+Action, Shooter
+
+SUBGENRE:
+Moba, Hero shooter, Competitive
+
+MECHANICS:
+Hero abilities, Shooting mechanics, Item building, Map control, Team fights, Strategic positioning
+
+CORELOOP:
+Lane control, Combat, Objectives, Team coordination, Progression
+
+THEME:
+Competition, Teamwork, Mastery, Strategy, Rivalry
+
+SETTING:
+Futuristic urban fantasy arenas
+
+PERSPECTIVE:
+Third person
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: Crimson Desert
+
+NAME: Crimson Desert
+
+PLOT:
+A mercenary fights to survive and fulfill his mission in the war-torn continent of Pywel while facing political conflicts and personal struggles
+
+PROGRESSION:
+Progression through story advancement, equipment upgrades, skill development, and world exploration
+
+GENRE:
+Action, RPG
+
+SUBGENRE:
+Open world, Fantasy, Adventure
+
+MECHANICS:
+Melee combat, Ranged combat, Horseback riding, Open-world exploration, Quest completion, Character progression
+
+CORELOOP:
+Exploration, Combat, Quests, Progression, Survival
+
+THEME:
+Survival, War, Loyalty, Ambition, Destiny
+
+SETTING:
+Medieval fantasy world
+
+PERSPECTIVE:
+Third person
+
+GAMEMODE:
+Singleplayer
+
+---
+
+GAME: Overwatch
+
+NAME: Overwatch
+
+PLOT:
+Heroes from around the world fight in futuristic conflicts to protect peace or pursue their own ambitions across global battlegrounds
+
+PROGRESSION:
+Progression through ranked matches, hero mastery, unlockables, and cosmetic rewards
+
+GENRE:
+Action, Shooter
+
+SUBGENRE:
+Hero shooter, Team-based, Multiplayer
+
+MECHANICS:
+Hero abilities, Shooting mechanics, Ultimate skills, Team synergy, Map objectives, Role specialization
+
+CORELOOP:
+Team combat, Objectives, Strategy, Progression
+
+THEME:
+Heroism, Teamwork, Rivalry, Diversity, Competition
+
+SETTING:
+Futuristic sci-fi cities
+
+PERSPECTIVE:
+First person
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: Geometry Dash
+
+NAME: Geometry Dash
+
+PLOT:
+The player controls a geometric icon that must survive increasingly difficult obstacle courses synchronized with energetic music
+
+PROGRESSION:
+Progression through level completion, practice mastery, and custom level challenges
+
+GENRE:
+Action, Rhythm
+
+SUBGENRE:
+Platformer, Rhythm game, Precision
+
+MECHANICS:
+Precision jumping, Rhythm synchronization, Memorization, Level creation, Fast reflexes
+
+CORELOOP:
+Jumping, Obstacle avoidance, Timing, Progression
+
+THEME:
+Precision, Persistence, Rhythm, Challenge, Mastery
+
+SETTING:
+Abstract geometric worlds
+
+PERSPECTIVE:
+2D side view
+
+GAMEMODE:
+Singleplayer
+
+---
+
+GAME: Delta Force
+
+NAME: Delta Force
+
+PLOT:
+Players engage in large-scale military operations across modern battlefields using infantry tactics and vehicle warfare
+
+PROGRESSION:
+Progression through rank advancement, weapon unlocks, skill mastery, and mission success
+
+GENRE:
+Action, Shooter
+
+SUBGENRE:
+Military FPS, Tactical shooter, Multiplayer
+
+MECHANICS:
+Precise shooting, Class system, Tactical planning, Vehicle combat, Squad coordination, Objective capture
+
+CORELOOP:
+Team combat, Objectives, Strategy, Vehicle warfare, Progression
+
+THEME:
+War, Teamwork, Strategy, Competition, Realism
+
+SETTING:
+Modern military warzones
+
+PERSPECTIVE:
+First person
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: Baldur's Gate 3
+
+NAME: Baldur's Gate 3
+
+PLOT:
+A hero infected by a mind flayer parasite must survive, seek a cure, and shape the fate of the Forgotten Realms through choices and alliances
+
+PROGRESSION:
+Progression through story choices, character leveling, equipment upgrades, and companion development
+
+GENRE:
+RPG, Adventure
+
+SUBGENRE:
+Turn-based rpg, Fantasy, Party-based
+
+MECHANICS:
+Turn-based combat, Dialogue choices, Character builds, Companion relationships, Dice-based systems, Exploration
+
+CORELOOP:
+Exploration, Quests, Dialogue, Combat, Progression
+
+THEME:
+Destiny, Freedom, Morality, Friendship, Power
+
+SETTING:
+High fantasy world
+
+PERSPECTIVE:
+Third person, Isometric
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: Cyberpunk 2077
+
+NAME: Cyberpunk 2077
+
+PLOT:
+V, a mercenary in Night City, seeks survival and identity while pursuing a way to remove a dangerous digital consciousness trapped in their mind
+
+PROGRESSION:
+Progression through story missions, skill trees, cyberware upgrades, reputation, and side quests
+
+GENRE:
+Action, RPG
+
+SUBGENRE:
+Open world, Sci-fi, FPS
+
+MECHANICS:
+Shooting mechanics, Hacking, Stealth, Driving, Dialogue choices, Cybernetic upgrades, Character builds
+
+CORELOOP:
+Exploration, Combat, Missions, Progression, Interactions
+
+THEME:
+Identity, Ambition, Corruption, Survival, Transhumanism
+
+SETTING:
+Futuristic dystopian metropolis
+
+PERSPECTIVE:
+First person
+
+GAMEMODE:
+Singleplayer
+
+---
+
+GAME: Rocket League
+
+NAME: Rocket League
+
+PLOT:
+Players control rocket-powered cars to score goals in fast-paced competitive soccer matches inside enclosed arenas
+
+PROGRESSION:
+Progression through ranked matches, skill mastery, unlockable cosmetics, and seasonal rewards
+
+GENRE:
+Sports, Action
+
+SUBGENRE:
+Car soccer, Competitive, Multiplayer
+
+MECHANICS:
+Vehicle control, Aerial movement, Ball physics, Boosting, Team positioning, Online matchmaking
+
+CORELOOP:
+Match play, Scoring goals, Team coordination, Progression
+
+THEME:
+Competition, Teamwork, Skill, Speed, Precision
+
+SETTING:
+Futuristic sports arenas
+
+PERSPECTIVE:
+Third person
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: Euro Truck Simulator 2
+
+NAME: Euro Truck Simulator 2
+
+PLOT:
+The player builds a trucking business by completing deliveries across Europe while managing routes, vehicles, and finances
+
+PROGRESSION:
+Progression through better trucks, company growth, driver hiring, and expanded logistics operations
+
+GENRE:
+Simulation, Driving
+
+SUBGENRE:
+Truck simulator, Management, Open world
+
+MECHANICS:
+Truck driving, Cargo transport, Fuel management, Company expansion, Route planning, Vehicle customization
+
+CORELOOP:
+Driving, Deliveries, Resource management, Progression
+
+THEME:
+Work, Freedom, Progression, Responsibility, Travel
+
+SETTING:
+Real-world European roads
+
+PERSPECTIVE:
+First person, Third person
+
+GAMEMODE:
+Singleplayer
+
+---
+
+GAME: Final Fantasy XIV Online
+
+NAME: Final Fantasy XIV Online
+
+PLOT:
+The Warrior of Light embarks on epic adventures across Eorzea, protecting the realm from threats while forging alliances and uncovering ancient mysteries
+
+PROGRESSION:
+Progression through character leveling, gear upgrades, class mastery, and story advancement
+
+GENRE:
+RPG, Adventure
+
+SUBGENRE:
+Mmorpg, Fantasy, Online
+
+MECHANICS:
+Tab-target combat, Class switching, Dungeon raids, Crafting, Gathering, Party cooperation, Story quests
+
+CORELOOP:
+Exploration, Quests, Combat, Crafting, Progression, Social interaction
+
+THEME:
+Adventure, Friendship, Destiny, Sacrifice, Heroism
+
+SETTING:
+High fantasy world
+
+PERSPECTIVE:
+Third person
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: The Sims 4
+
+NAME: The Sims 4
+
+PLOT:
+Players create and control virtual people, guiding their lives, relationships, careers, and homes in an open-ended simulation
+
+PROGRESSION:
+Progression through family development, career advancement, house expansion, and personal goals
+
+GENRE:
+Simulation, Life sim
+
+SUBGENRE:
+Sandbox, Social simulation, Management
+
+MECHANICS:
+Character creation, House building, Relationship systems, Career progression, Resource management, Life events
+
+CORELOOP:
+Building, Life management, Social interaction, Progression
+
+THEME:
+Life, Relationships, Creativity, Personal growth, Freedom
+
+SETTING:
+Suburban and urban life settings
+
+PERSPECTIVE:
+Third person, Isometric
+
+GAMEMODE:
+Singleplayer
+
+---
+
+GAME: Sid Meier's Civilization VI
+
+NAME: Sid Meier's Civilization VI
+
+PLOT:
+The player leads a civilization from ancient times to the modern era, seeking dominance through science, culture, diplomacy, religion, or conquest
+
+PROGRESSION:
+Progression through technological advancement, territorial expansion, cultural growth, and victory conditions
+
+GENRE:
+Strategy, Simulation
+
+SUBGENRE:
+4X, Turn-based, Empire building
+
+MECHANICS:
+City management, Resource allocation, Diplomacy, Technology research, Military strategy, Turn-based decisions
+
+CORELOOP:
+Exploration, Expansion, Diplomacy, Warfare, Progression
+
+THEME:
+Progress, Power, Leadership, Conquest, Development
+
+SETTING:
+Historical world civilization progression
+
+PERSPECTIVE:
+Top-down isometric
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: Project Zomboid
+
+NAME: Project Zomboid
+
+PLOT:
+The player struggles to survive in a zombie apocalypse, managing resources, avoiding infection, and building safe shelters in a collapsing world
+
+PROGRESSION:
+Progression through survival time, skill development, base fortification, resource management, and adaptation to increasingly difficult survival conditions
+
+GENRE:
+Survival, Simulation
+
+SUBGENRE:
+Open world, Zombie survival, Sandbox
+
+MECHANICS:
+Crafting, Hunger and health management, Stealth, Combat, Base fortification, Skill progression, Realistic survival systems
+
+CORELOOP:
+Resource gathering, Survival, Crafting, Base building, Exploration
+
+THEME:
+Survival, Isolation, Desperation, Adaptation, Mortality
+
+SETTING:
+Post-apocalyptic suburban world
+
+PERSPECTIVE:
+Isometric
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: R.E.P.O.
+
+NAME: R.E.P.O.
+
+PLOT:
+Players enter dangerous haunted environments to recover valuable objects and survive terrifying supernatural threats while escaping safely
+
+PROGRESSION:
+Progression through successful extractions, better equipment, unlockables, and team coordination
+
+GENRE:
+Horror, Action
+
+SUBGENRE:
+Coop horror, Extraction, Multiplayer
+
+MECHANICS:
+Stealth, Cooperative exploration, Resource collection, Enemy avoidance, Extraction mechanics, Communication
+
+CORELOOP:
+Exploration, Scavenging, Survival, Teamwork, Progression
+
+THEME:
+Survival, Fear, Cooperation, Risk, Greed
+
+SETTING:
+Dark abandoned facilities
+
+PERSPECTIVE:
+First person
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: The Elder Scrolls V: Skyrim
+
+NAME: The Elder Scrolls V: Skyrim
+
+PLOT:
+The Dragonborn rises to stop the return of dragons and confront Alduin while shaping their own path across the land of Skyrim
+
+PROGRESSION:
+Progression through leveling skills, completing quests, unlocking shouts, equipment upgrades, and faction advancement
+
+GENRE:
+RPG, Action
+
+SUBGENRE:
+Open world, Fantasy, Adventure
+
+MECHANICS:
+Melee combat, Magic system, Stealth, Crafting, Dialogue choices, Character builds, Open-world exploration
+
+CORELOOP:
+Exploration, Quests, Combat, Progression, Interactions
+
+THEME:
+Destiny, Freedom, Power, War, Discovery
+
+SETTING:
+High fantasy medieval world
+
+PERSPECTIVE:
+First person, Third person
+
+GAMEMODE:
+Singleplayer
+
+---
+
+GAME: Payday 2
+
+NAME: Payday 2
+
+PLOT:
+A group of professional criminals performs increasingly dangerous heists involving banks, transport vehicles, and high-security targets
+
+PROGRESSION:
+Progression through money accumulation, skill unlocks, perk decks, equipment upgrades, and difficulty mastery
+
+GENRE:
+Action, Shooter
+
+SUBGENRE:
+Coop FPS, Heist, Tactical
+
+MECHANICS:
+Shooting mechanics, Stealth infiltration, Heist planning, Class builds, Skill trees, Resource management, Cooperative play
+
+CORELOOP:
+Planning, Combat, Stealth, Teamwork, Rewards, Progression
+
+THEME:
+Crime, Greed, Teamwork, Risk, Ambition
+
+SETTING:
+Modern urban criminal environments
+
+PERSPECTIVE:
+First person
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: Hearts of Iron IV
+
+NAME: Hearts of Iron IV
+
+PLOT:
+The player leads a nation during World War II, managing politics, economy, diplomacy, and military campaigns to reshape history
+
+PROGRESSION:
+Progression through national expansion, military victories, technological development, and strategic dominance
+
+GENRE:
+Strategy, Simulation
+
+SUBGENRE:
+Grand strategy, War, Historical
+
+MECHANICS:
+Nation management, Military strategy, Diplomacy, Production systems, Technology research, Political decisions
+
+CORELOOP:
+Resource management, Diplomacy, Warfare, Planning, Progression
+
+THEME:
+War, Power, Politics, Conquest, Strategy
+
+SETTING:
+Global historical war setting
+
+PERSPECTIVE:
+Top-down map view
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: Diablo IV
+
+NAME: Diablo IV
+
+PLOT:
+Heroes fight against demonic forces led by Lilith, seeking to protect Sanctuary from corruption and destruction
+
+PROGRESSION:
+Progression through character leveling, legendary equipment, skill specialization, and world progression
+
+GENRE:
+Action, RPG
+
+SUBGENRE:
+Action rpg, Dungeon crawler, Dark fantasy
+
+MECHANICS:
+Fast-paced combat, Skill trees, Loot system, Dungeon exploration, Class builds, Boss fights, Cooperative events
+
+CORELOOP:
+Combat, Exploration, Loot, Progression, Quests
+
+THEME:
+Corruption, Power, Destiny, Survival, Sacrifice
+
+SETTING:
+Dark fantasy world
+
+PERSPECTIVE:
+Isometric
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: Team Fortress 2
+
+NAME: Team Fortress 2
+
+PLOT:
+Two rival teams of mercenaries compete in exaggerated and chaotic battles over objectives in stylized arenas
+
+PROGRESSION:
+Progression through skill mastery, item unlocks, cosmetic rewards, and competitive matches
+
+GENRE:
+Action, Shooter
+
+SUBGENRE:
+Hero shooter, Class-based FPS, Multiplayer
+
+MECHANICS:
+Class abilities, Shooting mechanics, Objective capture, Payload escort, Team coordination, Class switching
+
+CORELOOP:
+Team combat, Objectives, Strategy, Progression
+
+THEME:
+Competition, Teamwork, Humor, Rivalry, Chaos
+
+SETTING:
+Cartoon industrial battlegrounds
+
+PERSPECTIVE:
+First person
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: War Thunder
+
+NAME: War Thunder
+
+PLOT:
+Players fight in large-scale military conflicts using tanks, aircraft, and naval vehicles across multiple historical and modern war scenarios
+
+PROGRESSION:
+Progression through unlocking new vehicles, research trees, upgrades, and nation advancement
+
+GENRE:
+Action, Simulation
+
+SUBGENRE:
+Military combat, Vehicle simulation, Multiplayer
+
+MECHANICS:
+Tank combat, Aerial combat, Naval warfare, Realistic physics, Vehicle customization, Team coordination
+
+CORELOOP:
+Combat, Progression, Vehicle upgrades, Strategy
+
+THEME:
+War, Strategy, Mastery, Realism, Competition
+
+SETTING:
+Historical and modern warzones
+
+PERSPECTIVE:
+Third person, First person
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: Helldivers 2
+
+NAME: Helldivers 2
+
+PLOT:
+Elite soldiers known as Helldivers fight across hostile planets to defend Super Earth and spread managed democracy against alien threats
+
+PROGRESSION:
+Progression through mission success, equipment unlocks, stratagem upgrades, and higher difficulty operations
+
+GENRE:
+Action, Shooter
+
+SUBGENRE:
+Coop shooter, Sci-fi, Extraction
+
+MECHANICS:
+Shooting mechanics, Stratagem system, Friendly fire, Squad coordination, Objective completion, Enemy waves
+
+CORELOOP:
+Team combat, Missions, Survival, Progression, Cooperation
+
+THEME:
+Sacrifice, Patriotism, Cooperation, Survival, War
+
+SETTING:
+Futuristic sci-fi warzones
+
+PERSPECTIVE:
+Third person
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: DayZ
+
+NAME: DayZ
+
+PLOT:
+Players struggle to survive in a post-apocalyptic world filled with infected creatures and hostile survivors while searching for supplies and shelter
+
+PROGRESSION:
+Progression through survival time, better equipment, base fortification, alliances, and adaptation to harsh conditions
+
+GENRE:
+Survival, Action
+
+SUBGENRE:
+Open world, Zombie survival, Multiplayer
+
+MECHANICS:
+Hunger and thirst management, Crafting, Stealth, PvP combat, Medical systems, Base building, Navigation
+
+CORELOOP:
+Resource gathering, Survival, Exploration, Combat, Progression
+
+THEME:
+Survival, Betrayal, Tension, Adaptation, Desperation
+
+SETTING:
+Post-apocalyptic rural world
+
+PERSPECTIVE:
+First person, Third person
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: ARK: Survival Ascended
+
+NAME: ARK: Survival Ascended
+
+PLOT:
+Players awaken on a mysterious island filled with dinosaurs and ancient creatures, surviving by building, taming beasts, and uncovering the world's secrets
+
+PROGRESSION:
+Progression through stronger equipment, dinosaur mastery, base expansion, technological advancement, and boss progression
+
+GENRE:
+Survival, Adventure
+
+SUBGENRE:
+Open world, Crafting, Dinosaur survival
+
+MECHANICS:
+Crafting, Base building, Dinosaur taming, Combat, Resource farming, Tribe cooperation, Technology progression
+
+CORELOOP:
+Resource gathering, Survival, Taming, Building, Exploration, Progression
+
+THEME:
+Survival, Domination, Discovery, Cooperation, Evolution
+
+SETTING:
+Prehistoric sci-fi island
+
+PERSPECTIVE:
+First person, Third person
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: Valheim
+
+NAME: Valheim
+
+PLOT:
+A fallen warrior enters a mythological Norse world to prove worthy of Valhalla by defeating powerful forsaken creatures
+
+PROGRESSION:
+Progression through biome progression, stronger gear, defeated bosses, base development, and exploration of new lands
+
+GENRE:
+Survival, Adventure
+
+SUBGENRE:
+Open world, Crafting, Coop survival
+
+MECHANICS:
+Crafting, Base building, Sailing, Boss fights, Resource gathering, Survival systems, Cooperative gameplay
+
+CORELOOP:
+Exploration, Gathering, Building, Combat, Progression
+
+THEME:
+Survival, Honor, Discovery, Progression, Mythology
+
+SETTING:
+Norse fantasy world
+
+PERSPECTIVE:
+Third person
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: RimWorld
+
+NAME: RimWorld
+
+PLOT:
+Crash-landed survivors attempt to build a functioning colony on a distant planet while facing raids, disasters, and unpredictable events
+
+PROGRESSION:
+Progression through colony expansion, technology research, colonist development, survival efficiency, and long-term sustainability
+
+GENRE:
+Simulation, Strategy
+
+SUBGENRE:
+Colony simulator, Survival, Management
+
+MECHANICS:
+Colonist management, Base construction, Resource allocation, Combat, Diplomacy, Event handling, Emergent storytelling
+
+CORELOOP:
+Resource management, Colony building, Survival, Progression
+
+THEME:
+Survival, Adaptation, Leadership, Tragedy, Emergent storytelling
+
+SETTING:
+Sci-fi frontier planet
+
+PERSPECTIVE:
+Top-down
+
+GAMEMODE:
+Singleplayer
+
+---
+
+GAME: Crusader Kings III
+
+NAME: Crusader Kings III
+
+PLOT:
+The player leads a medieval noble dynasty, managing politics, war, religion, and family relations to preserve and expand their bloodline
+
+PROGRESSION:
+Progression through dynasty growth, territorial control, political influence, succession success, and long-term legacy
+
+GENRE:
+Strategy, Simulation
+
+SUBGENRE:
+Grand strategy, Dynasty, Medieval
+
+MECHANICS:
+Dynasty management, Diplomacy, Warfare, Succession systems, Intrigue, Marriage alliances, Territory expansion
+
+CORELOOP:
+Resource management, Diplomacy, Warfare, Political progression
+
+THEME:
+Power, Legacy, Politics, Ambition, Betrayal
+
+SETTING:
+Medieval historical world
+
+PERSPECTIVE:
+Top-down map view
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: Satisfactory
+
+NAME: Satisfactory
+
+PLOT:
+An engineer explores an alien planet and builds massive automated factories to fulfill the demands of a mysterious corporation
+
+PROGRESSION:
+Progression through technology tiers, factory expansion, automation efficiency, unlocked machines, and production optimization
+
+GENRE:
+Simulation, Strategy
+
+SUBGENRE:
+Factory building, Automation, Open world
+
+MECHANICS:
+Factory construction, Conveyor systems, Automation, Exploration, Resource extraction, Logistics planning
+
+CORELOOP:
+Resource gathering, Building, Optimization, Progression
+
+THEME:
+Optimization, Industry, Efficiency, Exploration, Progression
+
+SETTING:
+Alien industrial planet
+
+PERSPECTIVE:
+First person
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: NBA 2K26
+
+NAME: NBA 2K26
+
+PLOT:
+No traditional narrative; focuses on basketball competition, player careers, franchise management, and online competitive play
+
+PROGRESSION:
+Progression through career mode, player development, myteam building, and competitive rankings
+
+GENRE:
+Sports, Simulation
+
+SUBGENRE:
+Basketball, Competitive, Sports sim
+
+MECHANICS:
+Player control, Shooting, Dribbling, Defending, Tactical play, Team management, Online matchmaking
+
+CORELOOP:
+Match play, Team management, Career progression, Competition
+
+THEME:
+Sportsmanship, Competition, Teamwork, Achievement, Strategy
+
+SETTING:
+Real-world basketball arenas
+
+PERSPECTIVE:
+Third person, Broadcast view
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: eFootball
+
+NAME: eFootball
+
+PLOT:
+No traditional narrative; focuses on football matches, club management, and online competition between players
+
+PROGRESSION:
+Progression through dream team building, competitive ranking, player upgrades, and seasonal events
+
+GENRE:
+Sports, Simulation
+
+SUBGENRE:
+Soccer, Competitive, Sports sim
+
+MECHANICS:
+Player control, Passing, Shooting, Dribbling, Defending, Tactical systems, Online matchmaking
+
+CORELOOP:
+Match play, Team management, Skill execution, Scoring goals, Progression
+
+THEME:
+Sportsmanship, Competition, Teamwork, Strategy, Achievement
+
+SETTING:
+Real-world football stadiums and leagues
+
+PERSPECTIVE:
+Third person, Broadcast view
+
+GAMEMODE:
+Singleplayer, Multiplayer
+
+---
+
+GAME: Brawlhalla
+
+NAME: Brawlhalla
+
+PLOT:
+Legendary warriors from different worlds and time periods fight in tournaments to prove themselves in the halls of Valhalla
+
+PROGRESSION:
+Progression through ranked matches, legend mastery, unlockable characters, and cosmetic rewards
+
+GENRE:
+Action, Fighting
+
+SUBGENRE:
+Platform fighter, Competitive, Multiplayer
+
+MECHANICS:
+Weapon-based combat, Dodging, Aerial movement, Combos, Stage control, Online matchmaking
+
+CORELOOP:
+Combat, Elimination, Progression, Competition
+
+THEME:
+Competition, Mastery, Rivalry, Skill, Glory
+
+SETTING:
+Fantasy crossover arenas
+
+PERSPECTIVE:
+2D side view
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: Phasmophobia
+
+NAME: Phasmophobia
+
+PLOT:
+Players act as paranormal investigators entering haunted locations to identify dangerous ghosts and survive supernatural encounters
+
+PROGRESSION:
+Progression through successful investigations, better equipment, unlockables, and knowledge of ghost behaviors
+
+GENRE:
+Horror, Simulation
+
+SUBGENRE:
+Coop horror, Ghost hunting, Multiplayer
+
+MECHANICS:
+Ghost detection tools, Evidence collection, Voice interaction, Sanity management, Cooperative exploration, Escape planning
+
+CORELOOP:
+Investigation, Survival, Teamwork, Progression
+
+THEME:
+Fear, Mystery, Cooperation, Survival, Investigation
+
+SETTING:
+Haunted houses and dark abandoned places
+
+PERSPECTIVE:
+First person
+
+GAMEMODE:
+Multiplayer
+
+---
+
+GAME: Peak
+
+NAME: Peak
+
+PLOT:
+Players climb dangerous vertical environments using parkour and precision movement while overcoming environmental obstacles and cooperative challenges
+
+PROGRESSION:
+Progression through mastering movement, completing harder climbs, unlocking new routes, and improving traversal skills
+
+GENRE:
+Action, Adventure
+
+SUBGENRE:
+Parkour, Climbing, Multiplayer
+
+MECHANICS:
+Parkour movement, Climbing mechanics, Precision jumping, Cooperative traversal, Obstacle navigation
+
+CORELOOP:
+Movement, Climbing, Exploration, Progression
+
+THEME:
+Challenge, Freedom, Persistence, Mastery, Exploration
+
+SETTING:
+Vertical mountainous and urban environments
+
+PERSPECTIVE:
+First person
+
+GAMEMODE:
+Multiplayer

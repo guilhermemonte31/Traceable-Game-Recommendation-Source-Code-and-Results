@@ -1,0 +1,294 @@
+[
+    {
+        "comentario": "should be helldivers 2",
+        "pergunta": "I want a futuristic military action fighting game that talks about patriotism",
+        "jogo_encontrado": "Battlefield 6",
+        "similaridade": 0.5829561352729797
+    },
+    {
+        "pergunta": "I want a basketball game where I can be a player, manage a team, and play competitively",
+        "jogo_encontrado": "NBA 2K26",
+        "similaridade": 0.5953266024589539
+    },
+    {
+        "comentario": "should be pubg",
+        "pergunta": "I want an FPS game where I can explore and have to survive by defeating other people online",
+        "jogo_encontrado": "Cyberpunk 2077",
+        "similaridade": 0.49533355236053467
+    },
+    {
+        "comentario": "should be dead by daylight",
+        "pergunta": "I want a horror game where I have to survive while hunting other players",
+        "jogo_encontrado": "R.E.P.O.",
+        "similaridade": 0.6590515971183777
+    },
+    {
+        "pergunta": "I want a military FPS game with team-based combat, objective capture, and strategic challenges",
+        "jogo_encontrado": "Battlefield 6",
+        "similaridade": 0.6400074362754822
+    },
+    {
+        "pergunta": "I want an exploration and survival game where I can upgrade equipment and fight bosses",
+        "jogo_encontrado": "Terraria",
+        "similaridade": 0.4987969994544983
+    },
+    {
+        "pergunta": "I want a casual game where I have to dodge obstacles with good music",
+        "jogo_encontrado": "Geometry Dash",
+        "similaridade": 0.4565446078777313
+    },
+    {
+        "comentario": "should be baldur's gate 3",
+        "pergunta": "I want an immersive RPG with turn-based combat and missions",
+        "jogo_encontrado": "Warframe",
+        "similaridade": 0.5063304305076599
+    },
+    {
+        "comentario": "should be gtav",
+        "pergunta": "I want a game set in urban cities where I can explore the map, complete missions, and drive vehicles",
+        "jogo_encontrado": "Deadlock",
+        "similaridade": 0.46496671438217163
+    },
+    {
+        "pergunta": "I want a truck driver simulation game where I can drive on real highways",
+        "jogo_encontrado": "Euro Truck Simulator 2",
+        "similaridade": 0.6218055486679077
+    },
+    {
+        "pergunta": "I want a relaxing game where I have to take care of a farm and perform manual tasks such as fishing and mining.",
+        "jogo_encontrado": "Stardew Valley",
+        "similaridade": 0.5355287790298462
+    },
+    {
+        "pergunta": "I want a first-person horror game where I have to face ghosts in a haunted house.",
+        "jogo_encontrado": "Phasmophobia",
+        "similaridade": 0.6669812798500061
+    },
+    {
+        "comentario": "should be brawlhalla",
+        "pergunta": "I want a fun combat game where I have to eliminate opponents in a 2D perspective.",
+        "jogo_encontrado": "Team Fortress 2",
+        "similaridade": 0.4838423728942871
+    },
+    {
+        "pergunta": "I want a survival game set in a prehistoric environment where I fight dinosaurs and build tribes and resources.",
+        "jogo_encontrado": "ARK: Survival Ascended",
+        "similaridade": 0.63273686170578
+    },
+    {
+        "pergunta": "I want a game where I can be a criminal and commit crimes such as stealing cars and robbing banks.",
+        "jogo_encontrado": "Payday 2",
+        "similaridade": 0.5766031742095947
+    },
+    {
+        "comentario": "should be skyrim",
+        "pergunta": "I want an open-world RPG where I can use magic in combat and craft weapons.",
+        "jogo_encontrado": "Windrose",
+        "similaridade": 0.48751330375671387
+    },
+    {
+        "pergunta": "I want a cooperative horror game where I have to hide from enemies while collecting resources.",
+        "jogo_encontrado": "R.E.P.O.",
+        "similaridade": 0.6295803785324097
+    },
+    {
+        "pergunta": "I want a real-life simulation game where I interact with other people, create my own character, and have a relaxing experience.",
+        "jogo_encontrado": "The Sims 4",
+        "similaridade": 0.5791821479797363
+    },
+    {
+        "pergunta": "I want a game that simulates parkour movements, climbing objects, and dodging obstacles, with a sense of challenge and freedom to explore.",
+        "jogo_encontrado": "Peak",
+        "similaridade": 0.618107259273529
+    },
+    {
+        "pergunta": "I want a football simulation game with real teams and players that I can play competitively.",
+        "jogo_encontrado": "eFootball",
+        "similaridade": 0.5361244678497314
+    },
+    {
+        "comentario": "should be rimworld",
+        "pergunta": "I want a strategy game where I have to build a society while trying to survive.",
+        "jogo_encontrado": "Rust",
+        "similaridade": 0.5313167572021484
+    },
+    {
+        "comentario": "should be team fortress 2",
+        "pergunta": "I want a hero-based shooter with team combat in first-person perspective.",
+        "jogo_encontrado": "Counter Strike 2",
+        "similaridade": 0.6072708964347839
+    },
+    {
+        "pergunta": "I want a game where I have to survive in a zombie apocalypse, exploring an open world.",
+        "jogo_encontrado": "Project Zomboid",
+        "similaridade": 0.6468491554260254
+    },
+    {
+        "comentario": "should be dota 2",
+        "pergunta": "I want a strategy MOBA game where I have to face another team and develop strategies that require teamwork.",
+        "jogo_encontrado": "Deadlock",
+        "similaridade": 0.5945299863815308
+    },
+    {
+        "comentario": "should be elden ring",
+        "pergunta": "I want an open-world Soulslike game that is difficult and explores magic and fantasy with beautiful scenery.",
+        "jogo_encontrado": "Windrose",
+        "similaridade": 0.5122371315956116
+    },
+    {
+        "pergunta": "I want a car racing simulation game set in an open world with good driving mechanics.",
+        "jogo_encontrado": "Forza Horizon 6",
+        "similaridade": 0.5304559469223022
+    },
+    {
+        "pergunta": "I want a fun football game featuring cars that is dynamic and multiplayer.",
+        "jogo_encontrado": "Rocket League",
+        "similaridade": 0.5603906512260437
+    },
+    {
+        "comentario": "should be red dead redemption 2",
+        "pergunta": "I want a game set in the Wild West that features an open world, where I can complete main and side missions and ride horses.",
+        "jogo_encontrado": "Rust",
+        "similaridade": 0.44975975155830383
+    },
+    {
+        "comentario": "should be apex legends",
+        "pergunta": "I want a competitive battle royale combat game where each character has specific abilities.",
+        "jogo_encontrado": "Team Fortress 2",
+        "similaridade": 0.5961414575576782
+    },
+    {
+        "comentario": "should be counter strike 2",
+        "pergunta": "I want a realistic action game about conflicts between armies fighting to dominate battlefields.",
+        "jogo_encontrado": "Battlefield 6",
+        "similaridade": 0.6477096080780029
+    },
+    {
+        "pergunta": "I want a relaxing 2D farming simulation game where I take care of a farm.",
+        "jogo_encontrado": "Stardew Valley",
+        "similaridade": 0.5912488698959351
+    },
+    {
+        "comentario": "should be gtav",
+        "pergunta": "I want an open-world game where I can complete missions in an urban city and have the freedom to commit crimes, buy houses and cars, and get into fights.",
+        "jogo_encontrado": "Payday 2",
+        "similaridade": 0.5084947943687439
+    },
+    {
+        "pergunta": "I want a tactical FPS game with multiplayer team combat where I use real weapons in first-person perspective.",
+        "jogo_encontrado": "Counter Strike 2",
+        "similaridade": 0.5974656343460083
+    },
+    {
+        "pergunta": "I want a casual clicker game where I can collect and customize products.",
+        "jogo_encontrado": "Bongo Cat",
+        "similaridade": 0.49479609727859497
+    },
+    {
+        "pergunta": "I want a 2D exploration and action game where I have to find resources and build tools.",
+        "jogo_encontrado": "Terraria",
+        "similaridade": 0.4744293689727783
+    },
+    {
+        "pergunta": "I want an action game where I control an ancient warrior and have to fight in a space environment.",
+        "jogo_encontrado": "Warframe",
+        "similaridade": 0.5967679619789124
+    },
+    {
+        "pergunta": "I want a turn-based card game that requires strategy.",
+        "jogo_encontrado": "Slay the Spire 2",
+        "similaridade": 0.48486611247062683
+    },
+    {
+        "pergunta": "I want an open-world action game where I have to survive while upgrading tools and fortifying my base through combat.",
+        "jogo_encontrado": "Rust",
+        "similaridade": 0.5650123953819275
+    },
+    {
+        "comentario": "should be counter strike 2",
+        "pergunta": "I want a tactical military action combat game featuring weapons and teamwork.",
+        "jogo_encontrado": "Battlefield 6",
+        "similaridade": 0.6553463935852051
+    },
+    {
+        "pergunta": "I want a turn-based strategy game where I have to control empires and deal with diplomacy and military conflicts.",
+        "jogo_encontrado": "Sid Meier's Civilization VI",
+        "similaridade": 0.5900245904922485
+    },
+    {
+        "pergunta": "I want a game set during World War II where I have to lead a country in pursuit of development and military conflicts.",
+        "jogo_encontrado": "Hearts of Iron IV",
+        "similaridade": 0.6188658475875854
+    },
+    {
+        "comentario": "should be team fortress 2",
+        "pergunta": "I want a hero-based game where I have to face other teams in multiplayer matches using strategies and abilities.",
+        "jogo_encontrado": "Overwatch",
+        "similaridade": 0.6223576068878174
+    },
+    {
+        "pergunta": "I want a game about aliens and industrial exploration.",
+        "jogo_encontrado": "Satisfactory",
+        "similaridade": 0.5448702573776245
+    },
+    {
+        "comentario": "should be pubg",
+        "pergunta": "I want a war game where I fight against many people at the same time, featuring exploration, vehicles, and survival.",
+        "jogo_encontrado": "War Thunder",
+        "similaridade": 0.6399521231651306
+    },
+    {
+        "pergunta": "I want an FPS hero shooter with specific abilities for team combat.",
+        "jogo_encontrado": "Overwatch",
+        "similaridade": 0.5583155155181885
+    },
+    {
+        "pergunta": "I want a turn-based RPG with immersive dialogue and exploration.",
+        "jogo_encontrado": "Baldur's Gate 3",
+        "similaridade": 0.4676796793937683
+    },
+    {
+        "pergunta": "I want an online third-person combat RPG.",
+        "jogo_encontrado": "Final Fantasy XIV Online",
+        "similaridade": 0.5164663791656494
+    },
+    {
+        "pergunta": "I want a realistic football game with kicking and dribbling mechanics, where I can control real players and play online matches.",
+        "jogo_encontrado": "eFootball",
+        "similaridade": 0.5821393132209778
+    },
+    {
+        "pergunta": "I want a hero-based game featuring objectives and strategy based on Marvel heroes.",
+        "jogo_encontrado": "Marvel Rivals",
+        "similaridade": 0.649273157119751
+    },
+    {
+        "pergunta": "I want an open-world exploration and combat game featuring the use of magic.",
+        "jogo_encontrado": "Windrose",
+        "similaridade": 0.5205551385879517
+    },
+    {
+        "comentario": "should be rainbow six siege",
+        "pergunta": "I want a counter terrorism game where I am part of a tactical team that needs to defend a location.",
+        "jogo_encontrado": "Counter Strike 2",
+        "similaridade": 0.6301251649856567
+    },
+    {
+        "comentario": "should be cyberpunk",
+        "pergunta": "I want a sci-fi game where I can customize my character, explore an open world, complete missions, and upgrade equipment.",
+        "jogo_encontrado": "Windrose",
+        "similaridade": 0.5471301078796387
+    },
+    {
+        "comentario": "should be crimson desert",
+        "pergunta": "I want a magic-based combat game set in a medieval fantasy world.",
+        "jogo_encontrado": "Crusader Kings III",
+        "similaridade": 0.521439254283905
+    },
+    {
+        "comentario": "should be diablo iv",
+        "pergunta": "I want an action game where I have to fight bosses with fast-paced combat.",
+        "jogo_encontrado": "Warframe",
+        "similaridade": 0.46494540572166443
+    }
+]
